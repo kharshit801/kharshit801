@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Harshit Kumar, currently pursuing a Bachelor of Technology in Engineering and Computational Mechanics at MNNIT Allahabad, where I maintain a strong academic performance with a CPI of 8.91. My passion for technology is reflected in my hands-on experience in app development, particularly in healthcare solutions and SOS services. I have participated in multiple hackathons, achieving recognition for innovative projects like Doctorify and MedWheels, which aim to enhance patient care and emergency services. My technical skills include JavaScript, React Native, Swift, and full-stack development, and I am deeply interested in AI and healthcare technology.
+I am Harshit Kumar, currently pursuing a Bachelor of Technology in at MNNIT Allahabad, where I maintain a strong academic performance. My passion for technology is reflected in my hands-on experience in app development, particularly in healthcare solutions and SOS services. I have participated in multiple hackathons, achieving recognition for innovative projects like Doctorify and MedWheels, which aim to enhance patient care and emergency services. My technical skills include JavaScript, React Native, Swift, and full-stack development, and I am deeply interested in AI and healthcare technology.
 
 
 ## 🌐 Socials:
